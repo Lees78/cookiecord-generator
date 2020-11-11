@@ -8,7 +8,7 @@
     "bin": "bin.js",
     "dependencies": {
         "@types/fs-extra": "^8.0.1",
-        "@types/node": "^13.7.0",
+        "@types/node": "^13.13.28",
         "commander": "^4.1.1",
         "fs-extra": "^8.1.0",
         "typescript": "^3.7.5"
